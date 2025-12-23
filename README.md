@@ -62,7 +62,3 @@ weibo-system/                    # 项目根目录
 │   ├── user-card.php           # 用户卡片模板
 │   └── pagination.php          # 分页模板
 │
-└── database/                    # 数据库相关
-    ├── schema.sql              # 数据库结构
-    ├── sample-data.sql         # 示例数据
-    └── weibo_backup.sql        # 备份文件（最终提交）
